@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amir hossein
-- 🌱 I’m currently learning javascript and Web design
+- 🌱 I’m currently learning Front-end Developer
 
 <!---
 amirhirx/amirhirx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
