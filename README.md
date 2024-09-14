@@ -1,3 +1,5 @@
+![Coding Image](coding.jpg)
+
 - 👋 Hi, I’m Amir hossein
 - 🌱 I’m currently learning Front-end Development
 ### My Skills
