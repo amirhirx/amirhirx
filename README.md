@@ -1,7 +1,7 @@
 ![Coding Image](coding.jpg)
 
-- 👋 Hi, I’m Amir hossein
-- 🌱 I’m currently learning Front-end Development
+## 👋 Hello, I’m AmirHossein Hosseinian
+🌱 I'm currently learning and practicing front-end web development.
 ### My Skills
 ![My Skills](https://skillicons.dev/icons?i=html,css,js)
 <!---
