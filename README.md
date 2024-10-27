@@ -1,6 +1,6 @@
 # 👋 Hello, I’m AmirHossein Hosseinian
 
-<img src="coding.jpg" height="320">
+<img src="coding.jpg">
 
 🌱 I'm currently learning and practicing front-end web development.
 
