@@ -8,4 +8,4 @@
 
 You can see my work at [this repository](https://github.com/amirhirx/frontendmentor-challenges/)
 ### My Skills
-![My Skills](https://skillicons.dev/icons?i=html,css,js)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwindcss)
