@@ -10,4 +10,4 @@ Computer Engineering student — always learning and improving 🚀
 
 You can see my work at [this repository](https://github.com/amirhirx/frontendmentor-challenges/)
 ### My Skills
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwindcss)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwindcss,git)
