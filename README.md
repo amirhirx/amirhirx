@@ -2,7 +2,9 @@
 
 <img src="coding.jpg">
 
-🌱 I'm currently learning and practicing front-end web development.
+👋 Hi! I'm learning Frontend Development and love building web projects.
+I work with HTML, CSS, JavaScript, React, TailwindCSS, Next.js, and TypeScript 💻
+Computer Engineering student — always learning and improving 🚀
 
 🛠️ I'm working on solving the [Frontendmentor.io](https://www.frontendmentor.io/profile/amirhirx) challenges.
 
