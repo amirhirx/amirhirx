@@ -1,15 +1,11 @@
 # 👋 Hello, I’m AmirHossein Hosseinian
 
-<div  align="left">
-<img src="coder-desk.gif" width="300"  align="left" style="margin:100px;">
-  <div>
+<img src="coder-desk.gif" width="300" >
+
 👋 Hi! I'm learning Frontend Development and love building web projects.
 I work with HTML, CSS, JavaScript, React, TailwindCSS, Next.js, and TypeScript
 
 💻 Computer Engineering student — always learning and improving 🚀
-  </div>
-</div>
-
 
 🛠️ I'm working on solving the [Frontendmentor.io](https://www.frontendmentor.io/profile/amirhirx) challenges.
 
