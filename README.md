@@ -1,6 +1,6 @@
 # 👋 Hello, I’m AmirHossein Hosseinian
 
-<img src="coder-desk.gif" width="300" >
+<img src="js.gif">
 
 👋 Hi! I'm learning Frontend Development and love building web projects.
 I work with HTML, CSS, JavaScript, React, TailwindCSS, Next.js, and TypeScript
