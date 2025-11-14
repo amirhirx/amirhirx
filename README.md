@@ -12,3 +12,5 @@ I work with HTML, CSS, JavaScript, React, TailwindCSS, Next.js, and TypeScript
 You can see my work at [this repository](https://github.com/amirhirx/frontendmentor-challenges/)
 ### My Skills
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwindcss,git&perline=6)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=amirhirx&theme=dark&hide_border=true&border_radius=25&short_numbers=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
