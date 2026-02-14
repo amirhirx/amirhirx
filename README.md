@@ -7,4 +7,4 @@ A Computer Engineering student and frontend developer focused on building modern
 Skilled in HTML, CSS, JavaScript, React, TailwindCSS, Next.js, and TypeScript, and always learning new tools to grow my expertise 💻✨
 
 ### My Skills
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwindcss,git&perline=6)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwindcss,git)
