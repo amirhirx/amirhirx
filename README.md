@@ -2,9 +2,9 @@
 
 <img src="js.gif">
 
-A Computer Engineering student and frontend developer focused on building modern, efficient, and user-centered web interfaces 🚀
+Computer Engineering student and aspiring Frontend Developer with a solid foundation in HTML, CSS, and JavaScript, and hands-on experience with React and Next.js 🚀
 
-Skilled in HTML, CSS, JavaScript, React, TailwindCSS, Next.js, and TypeScript, and always learning new tools to grow my expertise 💻✨
+Actively learning modern frontend best practices and building practical projects to gain real-world experience and become a stronger developer every day 💻✨
 
 ### My Skills
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwindcss,git)
